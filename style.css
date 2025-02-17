@@ -23,3 +23,15 @@ button {
 button:hover {
   box-shadow: 0 3px 6px rgba(0, 0, 0, 0.2);
 }
+
+img {
+  width: 60px;
+  height: 60px;
+  border: 0;
+}
+
+.con {
+  display: flex;
+  align-items: center;
+  column-gap: 10px;
+}
